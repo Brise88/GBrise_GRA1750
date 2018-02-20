@@ -1,0 +1,14 @@
+#MrDouble8 p{/*family hierarchy edit*/
+	color: #00ff00;
+
+}
+
+.list ul{
+	list-style-type: none; /*This removes bullets*/
+
+}
+.list ul li{
+	display: inline-block;/*this displays items horizon*/
+	font-family: Helvetica, Arial, Sans-Serif; 
+	font-size: 1em; 
+}
