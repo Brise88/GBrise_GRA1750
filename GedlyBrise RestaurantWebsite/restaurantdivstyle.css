@@ -1,0 +1,326 @@
+#container{
+	width: 6215px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.homelink {
+	opacity: 0;
+	position: absolute;
+	top: 65px;
+	left: 85px;
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+
+.foodlink {
+	position: absolute;
+	top: 53px;
+	left: 250px;
+	text-align: center;
+	border: solid 3px #DB872C;
+	border-radius: 20px;
+	padding: 10px 20px;
+}
+
+.foodlink:hover {
+	background-color: #DB872C;
+	color: #fff; 
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+
+.locationslink {
+	position: absolute;
+	top: 53px;
+	left: 495px;
+	text-align: center;
+	border: solid 3px #DB872C;
+	border-radius: 20px;
+	padding: 10px 20px;
+}
+
+.locationslink:hover {
+	background-color: #DB872C;
+	color: #fff; 	
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+
+.familylink {
+	position: absolute;
+	top: 53px;
+	left: 780px;
+	text-align: center;
+	border: solid 3px #DB872C;
+	border-radius: 20px;
+	padding: 10px 20px;
+}
+
+.familylink:hover {
+	background-color: #DB872C;
+	color: #fff;
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+.locations2link {
+	position: absolute;
+	top: 50px;
+	right: 170px;
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+
+.locations3link {
+	position: absolute;
+	top: 80px;
+	right: 295px;
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+
+.ordernowlink {
+	position: absolute;
+	top: 53px;
+	left: 1350px;
+	text-align: center;
+	border: solid 3px #DB872C;
+	border-radius: 20px;
+	padding: 10px 20px;
+}
+
+.ordernowlink:hover {
+	background-color: #DB872C;
+	color: #fff;
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+
+.food2link {
+	position: absolute;
+	top: 527px;
+	left: 1080px;
+	text-align: center;
+	border: solid 3px #DB872C;
+	border-radius: 20px;
+	padding: 10px 20px;
+}
+
+.food2link:hover {
+	background-color: #DB872C;
+	color: #fff;
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+.smartfoodlink {
+	position: absolute;
+	top: 1100px;
+	left: 130px;
+	text-align: center;
+	border: solid 3px #DB872C;
+	border-radius: 20px;
+	padding: 10px 20px;
+}
+
+.smartfoodlink:hover {
+	background-color: #DB872C;
+	color: #fff;
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+
+.food3link {
+	position: absolute;
+	bottom: -475px;
+	left: 650px;
+	text-align: center;
+	border: solid 3px #DB872C;
+	border-radius: 20px;
+	padding: 10px 20px;
+}
+
+.food3link:hover {
+	background-color: #DB872C;
+	color: #fff;
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+
+.clothesshoplink {
+	position: absolute;
+	bottom: -780px;
+	left: 390px;
+	text-align: center;
+	border: solid 3px #DB872C;
+	border-radius: 20px;
+	padding: 10px 60px;
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+
+.cateringlink {
+	position: absolute;
+	bottom: -780px;
+	left: 1030px;
+	text-align: center;
+	border: solid 3px #DB872C;
+	border-radius: 20px;
+	padding: 10px 60px;
+}
+
+a{
+	font-size: 1.5em;
+	font-family: Arial, Regular, Sans-Serif;
+	text-decoration: none;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
